@@ -1,2 +1,1 @@
-# math_basics
-Math basics course materials
+# Math basics course materials
