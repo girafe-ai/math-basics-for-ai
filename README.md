@@ -30,9 +30,9 @@ Lecture [[video](https://youtu.be/TE0hy3WcDK8)] - Practical session [video]
 
 Quiz [[google form](https://forms.gle/Mw28SUSTwohWWv9d7)]
 
-Least squares from scratch [[notebook](https://colab.research.google.com/drive/16UqY0p5h5324atAIQ3kWilF7AZTa5mbX?usp=sharing)][solutions] 
-
 ### 22.10
+
+Least squares from scratch [[notebook](https://colab.research.google.com/drive/16UqY0p5h5324atAIQ3kWilF7AZTa5mbX?usp=sharing)][solutions] 
 
 ### 26.10
 
