@@ -1,4 +1,7 @@
 # Course materials
+
+Lecture notes can be found in the repository. 
+
 ### 8.10 Intro
 
 Recording [[video](https://www.youtube.com/watch?v=Q8tykLHEjE4)]
@@ -43,3 +46,7 @@ Least squares from scratch [[notebook](https://colab.research.google.com/drive/1
 
 ### 12.11
 
+## Recommended literature 
+
+- (book) [Mathematics for Machine Learning](https://mml-book.github.io/)
+- (book) [Deep Learning](https://www.deeplearningbook.org/) - Part I
