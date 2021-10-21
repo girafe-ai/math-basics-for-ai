@@ -36,11 +36,15 @@ Exercises on basis change [solutions]
 
 Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/19DqtURFOwWP6RykklXI1eRDu6Fhgybwu?usp=sharing)][[solutions](https://colab.research.google.com/drive/1djaKMU9ZjrA1fvMtVyVR6eEi1Smq6bW2?usp=sharing)] 
 
+Additional readings:
+
 ### 19.10 Matrices & Linear transforms
 
 Quiz [[google form](https://forms.gle/Mw28SUSTwohWWv9d7)]
 
-Orthogonal complement: additional reading [[pdf](https://www.math.ucla.edu/~azhou/teaching/20F/orthogonal-complement.pdf)]
+Additional reading:
+- Inverse of a matrix [[pdf](https://web.auburn.edu/holmerr/2660/Textbook/invertibility-print.pdf)]
+- Orthogonal complement[[pdf](https://web.auburn.edu/holmerr/2660/Textbook/orthogonality-print.pdf)]
 
 ### 22.10
 
