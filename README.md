@@ -40,6 +40,8 @@ Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/19DqtUR
 
 Quiz [[google form](https://forms.gle/Mw28SUSTwohWWv9d7)]
 
+Orthogonal complement: additional reading [[pdf](https://www.math.ucla.edu/~azhou/teaching/20F/orthogonal-complement.pdf)]
+
 ### 22.10
 
 *Graded assignment 1 is out*
