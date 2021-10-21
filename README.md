@@ -44,8 +44,8 @@ Quiz [[google form](https://forms.gle/Mw28SUSTwohWWv9d7)]
 
 Additional reading:
 - Inverse of a matrix [[pdf](https://web.auburn.edu/holmerr/2660/Textbook/invertibility-print.pdf)]
-- Orthogonal complement[[pdf](https://web.auburn.edu/holmerr/2660/Textbook/orthogonality-print.pdf)]
-
+- Orthogonality [[pdf](https://web.auburn.edu/holmerr/2660/Textbook/orthogonality-print.pdf)]
+- Orthogonal projections[[pdf](https://www.math.utk.edu/~mengesha/teaching/Math2025/Lecture8.pdf)]
 ### 22.10
 
 *Graded assignment 1 is out*
