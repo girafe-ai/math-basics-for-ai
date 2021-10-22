@@ -8,6 +8,10 @@
 
 1st graded assignemnt IS OUT (see group chat). **Submission deadline: Tuesday, October 26, 19:00**.
 
+Additional materials:
+- [Reduced Row-Echelon Form](https://youtu.be/1rBU0yIyQQ8)
+- [How to Determine if a Set of Vectors is Linearly Independent](https://youtu.be/L1ErFhSxIew)
+
 2nd graded assignemnt
 
 3rd graded assignemnt
@@ -26,15 +30,15 @@ Lecture notes can be found in the repository.
 
 Quiz [[google form](https://forms.gle/uwgLicwGB42zPsbr8)]
 
-Color vectors [[notebook](https://colab.research.google.com/drive/1zvTfZ8jE_zNIJbwJwM89dr_wpRVYEWMM?usp=sharing)][[solutions](https://colab.research.google.com/drive/1OiRR3EfKwHNxdHHRqob8FmEJwvov9oek?usp=sharing)]
-
-Word vectors [[notebook](https://colab.research.google.com/drive/1-lpjmwYVI4_IcrXtnwtZyttMiOFg97a0?usp=sharing)][[solutions](https://colab.research.google.com/drive/1yU8vtMA4KxSVk0WH59WNhXTiwdaP7HZ-?usp=sharing)]
+Python practice:
+- Color vectors [[notebook](https://colab.research.google.com/drive/1zvTfZ8jE_zNIJbwJwM89dr_wpRVYEWMM?usp=sharing)][[solutions](https://colab.research.google.com/drive/1OiRR3EfKwHNxdHHRqob8FmEJwvov9oek?usp=sharing)]
+- Word vectors [[notebook](https://colab.research.google.com/drive/1-lpjmwYVI4_IcrXtnwtZyttMiOFg97a0?usp=sharing)][[solutions](https://colab.research.google.com/drive/1yU8vtMA4KxSVk0WH59WNhXTiwdaP7HZ-?usp=sharing)]
 
 ### 16.10 Vector Spaces
 
 Exercises on basis change [solutions]
 
-Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/19DqtURFOwWP6RykklXI1eRDu6Fhgybwu?usp=sharing)][[solutions](https://colab.research.google.com/drive/1djaKMU9ZjrA1fvMtVyVR6eEi1Smq6bW2?usp=sharing)] 
+Python practice: Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/19DqtURFOwWP6RykklXI1eRDu6Fhgybwu?usp=sharing)][[solutions](https://colab.research.google.com/drive/1djaKMU9ZjrA1fvMtVyVR6eEi1Smq6bW2?usp=sharing)] 
 
 Additional readings:
 
@@ -50,7 +54,8 @@ Additional reading:
 
 *Graded assignment 1 is out*
 
-Least squares from scratch [[notebook](https://colab.research.google.com/drive/16UqY0p5h5324atAIQ3kWilF7AZTa5mbX?usp=sharing)][solutions] 
+
+Python practice: Least squares from scratch [[notebook](https://colab.research.google.com/drive/16UqY0p5h5324atAIQ3kWilF7AZTa5mbX?usp=sharing)][[solutions](https://colab.research.google.com/drive/1_Kfewsh9QDPvn8rYUoRa4Ck-C9eDjkkU?usp=sharing)] 
 
 ### 26.10
 
