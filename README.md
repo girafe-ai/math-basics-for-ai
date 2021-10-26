@@ -61,6 +61,10 @@ Python practice: Least squares from scratch [[notebook](https://colab.research.g
 
 **Graded assignment 1 - submission deadline**
 
+Additional reading:
+- LU decomposition: explanation and aexercises [[pdf](https://learn.lboro.ac.uk/archive/olmp/olmp_resources/pages/workbooks_1_50_jan2008/Workbook30/30_3_lu_decmp.pdf)]
+- PCA explained [[pdf](http://www.math.union.edu/~jaureguj/PCA.pdf)]
+
 ### 29.10
 
 ### 02.11
