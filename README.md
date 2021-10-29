@@ -68,6 +68,10 @@ Additional reading:
 - PCA explained [[pdf](http://www.math.union.edu/~jaureguj/PCA.pdf)]
 
 ### 29.10
+Notes on SVD (MIT) [[pdf](https://math.mit.edu/classes/18.095/2016IAP/lec2/SVD_Notes.pdf)]
+Notes on SVD (UC Berkeley) [[pdf](https://math.berkeley.edu/~hutching/teach/54-2017/svd-notes.pdf)]
+SVD Computation example [[pdf](https://www.d.umn.edu/~mhampton/m4326svd_example.pdf)]
+Relationship between SVD and PCA [[pdf](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca)]
 
 ### 02.11
 
