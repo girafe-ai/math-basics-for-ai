@@ -85,6 +85,7 @@ Relationship between SVD and PCA [[pdf](https://stats.stackexchange.com/question
 
 - (course) [Topics in Linear Algebra](https://web.auburn.edu/holmerr/2660): lecture notes + quizes.
 - (Youtube playlist) [Linear Algebra for Engineers](https://youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx): a series of videos covering the most important concepts.
+- (lecture notes) [[Linear Algebra in 25 Lectures (UC Davis)](https://www.math.ucdavis.edu/~linear/linear.pdf)]
 - (book) [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/)
 - (book) [Mathematics for Machine Learning](https://mml-book.github.io/)
 - (book) [Deep Learning](https://www.deeplearningbook.org/) - Part I
