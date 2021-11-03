@@ -6,13 +6,13 @@
 
 ## Graded assignments
 
-1st graded assignemnt IS OUT (see group chat). **Submission deadline: Tuesday, October 26, 19:00**.
+1st graded assignemnt IS OUT (see group chat). **Submission deadline: Tuesday, October 27, 19:00 Moscow time**.
 
 Additional materials:
 - [Reduced Row-Echelon Form](https://youtu.be/1rBU0yIyQQ8)
 - [How to Determine if a Set of Vectors is Linearly Independent](https://youtu.be/L1ErFhSxIew)
 
-2nd graded assignemnt
+2nd graded assignemnt IS OUT (see group chat). **Submission deadline: Sunday, November 7, 23:59 Moscow time**.
 
 3rd graded assignemnt
 
@@ -54,12 +54,13 @@ Additional reading:
 
 *Graded assignment 1 is out*
 
-
 Python practice: Least squares from scratch [[notebook](https://colab.research.google.com/drive/16UqY0p5h5324atAIQ3kWilF7AZTa5mbX?usp=sharing)][[solutions](https://colab.research.google.com/drive/1_Kfewsh9QDPvn8rYUoRa4Ck-C9eDjkkU?usp=sharing)] 
 
 ### 26.10
 
 **Graded assignment 1 - submission deadline**
+
+PCA from scratch [[notebook](https://colab.research.google.com/drive/1tx5IXfGheU4fZRN5OkkBHAU4mbna0s7R?usp=sharing)][[solutions](https://colab.research.google.com/drive/1qSFsYM6KBWo4-uSWmooX0Ks0Zd87JVd0?usp=sharing)]
 
 Additional reading:
 - LU decomposition: explanation and aexercises [[pdf](https://learn.lboro.ac.uk/archive/olmp/olmp_resources/pages/workbooks_1_50_jan2008/Workbook30/30_3_lu_decmp.pdf)]
@@ -67,9 +68,22 @@ Additional reading:
 
 ### 29.10
 
+Quiz: [[Google form](https://forms.gle/Dyaosx6oz4gNFX8Y8)]
+
 ### 02.11
 
+*Graded assignment 2 is out*
+
+Python practice: PCA step-by-step [[notebook](https://colab.research.google.com/drive/1FVbnGH1xksvECmbaMVA2WATERCClwsV8?usp=sharing)][[solutions](https://colab.research.google.com/drive/1AMLBARvqGBamQPFWrKf3YY1Ww4uMx_C9?usp=sharing)]
+
 ### 05.11
+
+Additional material on SVD:
+- SVD (MIT lecture) [[video](https://youtu.be/rYz83XPxiZo)]
+- Notes on SVD (MIT) [[pdf](https://math.mit.edu/classes/18.095/2016IAP/lec2/SVD_Notes.pdf)]
+- Notes on SVD (UC Berkeley) [[pdf](https://math.berkeley.edu/~hutching/teach/54-2017/svd-notes.pdf)]
+- SVD Computation example [[pdf](https://www.d.umn.edu/~mhampton/m4326svd_example.pdf)]
+- Relationship between SVD and PCA [[pdf](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca)]
 
 ### 09.11
 
@@ -77,8 +91,16 @@ Additional reading:
 
 ## Recommended literature 
 
+### Calculus
+
+### Linear Algebra
+
 - (course) [Topics in Linear Algebra](https://web.auburn.edu/holmerr/2660): lecture notes + quizes.
 - (Youtube playlist) [Linear Algebra for Engineers](https://youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx): a series of videos covering the most important concepts.
+- (lecture notes) [[Linear Algebra in 25 Lectures (UC Davis)](https://www.math.ucdavis.edu/~linear/linear.pdf)]
 - (book) [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/)
-- (book) [Mathematics for Machine Learning](https://mml-book.github.io/)
 - (book) [Deep Learning](https://www.deeplearningbook.org/) - Part I
+
+### General
+
+- (book) [Mathematics for Machine Learning](https://mml-book.github.io/)
