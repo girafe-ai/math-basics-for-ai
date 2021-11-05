@@ -78,8 +78,11 @@ Python practice: PCA step-by-step [[notebook](https://colab.research.google.com/
 
 ### 05.11
 
+Python practice: SVD [[notebook](https://colab.research.google.com/drive/1Xch-StnOTkWkhto2c8jGzqp58CfiakdD?usp=sharing)][[solutions](https://colab.research.google.com/drive/1vPhsr7VfjxwGMZoXfTe9NEJ5foBiG9jw?usp=sharing)]
+
 Additional material on SVD:
-- SVD (MIT lecture) [[video](https://youtu.be/rYz83XPxiZo)]
+- SVD (MIT lecture) [[video](https://youtu.be/rYz83XPxiZo)] (thanks to Zaur)
+- SVD and Image Compression [[video](https://youtu.be/DG7YTlGnCEo)] (thanks to Zaur)
 - Notes on SVD (MIT) [[pdf](https://math.mit.edu/classes/18.095/2016IAP/lec2/SVD_Notes.pdf)]
 - Notes on SVD (UC Berkeley) [[pdf](https://math.berkeley.edu/~hutching/teach/54-2017/svd-notes.pdf)]
 - SVD Computation example [[pdf](https://www.d.umn.edu/~mhampton/m4326svd_example.pdf)]
