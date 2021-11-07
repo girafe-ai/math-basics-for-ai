@@ -96,6 +96,9 @@ Additional material on SVD:
 
 ### Calculus
 
+- (Youtube playlist) [Essence of Calculus] (https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- (lecture notes) Introduction to Differential Calculus [[pdf](https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/introduction-to-differential-calculus.pdf)]
+
 ### Linear Algebra
 
 - (course) [Topics in Linear Algebra](https://web.auburn.edu/holmerr/2660): lecture notes + quizes.
