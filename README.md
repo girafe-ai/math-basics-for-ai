@@ -96,14 +96,14 @@ Additional material on SVD:
 
 ### Calculus
 
-- (Youtube playlist) [[Essence of Calculus] (https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)]
+- (Youtube playlist) [Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - (lecture notes) Introduction to Differential Calculus [[pdf](https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/introduction-to-differential-calculus.pdf)]
 
 ### Linear Algebra
 
 - (course) [Topics in Linear Algebra](https://web.auburn.edu/holmerr/2660): lecture notes + quizes.
 - (Youtube playlist) [Linear Algebra for Engineers](https://youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx): a series of videos covering the most important concepts.
-- (lecture notes) [[Linear Algebra in 25 Lectures (UC Davis)](https://www.math.ucdavis.edu/~linear/linear.pdf)]
+- (lecture notes) [Linear Algebra in 25 Lectures (UC Davis)](https://www.math.ucdavis.edu/~linear/linear.pdf)
 - (book) [Introduction to Applied Linear Algebra](http://vmls-book.stanford.edu/)
 - (book) [Deep Learning](https://www.deeplearningbook.org/) - Part I
 
