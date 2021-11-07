@@ -90,6 +90,8 @@ Additional material on SVD:
 
 ### 09.11
 
+If you need extra practice with derivatives, you can find lots of exercises online. For example, consider this [Common derivatives challenge](https://www.khanacademy.org/math/in-in-grade-12-ncert/xd340c21e718214c5:continuity-differentiability/xd340c21e718214c5:review-differentiation-basics/e/special_derivatives) or these [exercises](https://math.fel.cvut.cz/mt/mtold/menue3cd.htm) with solutions.
+
 ### 12.11
 
 ## Recommended literature 
