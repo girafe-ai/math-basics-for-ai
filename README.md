@@ -90,9 +90,20 @@ Additional material on SVD:
 
 ### 09.11
 
+Univariate Calculus Cheat Sheet [[pdf](file:///C:/Users/evgen/AppData/Local/Temp/Calculus_Cheat_Sheet_Derivatives.pdf)]
+
 If you need extra practice with derivatives, you can find lots of exercises online. For example, consider this [Common derivatives challenge](https://www.khanacademy.org/math/in-in-grade-12-ncert/xd340c21e718214c5:continuity-differentiability/xd340c21e718214c5:review-differentiation-basics/e/special_derivatives) or these [exercises](https://math.fel.cvut.cz/mt/mtold/menue3cd.htm) with solutions.
 
 ### 12.11
+
+Python practice: Linear Regression The Other Way[[notebook](https://colab.research.google.com/drive/16Dmy9ePK3-cytfFCfKJ9sKWaYBT0bLMw?usp=sharing)][[solutions](https://colab.research.google.com/drive/1SwAaard4r39uYHMdyr6dvPjQLNI3sP2u?usp=sharing)]
+
+## 16.11
+
+NO CLASS
+
+## 19.11
+
 
 ## Recommended literature 
 
