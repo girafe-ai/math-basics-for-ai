@@ -104,6 +104,9 @@ NO CLASS
 
 ## 19.11
 
+Additional material on integrals:
+- [Indefinite integrals](https://tutorial.math.lamar.edu/Classes/CalcI/IndefiniteIntegrals.aspx)
+- [Intergation techniques](https://tutorial.math.lamar.edu/Classes/CalcII/IntTechIntro.aspx)
 
 ## Recommended literature 
 
