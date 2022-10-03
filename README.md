@@ -1,39 +1,54 @@
 ## Logistics
 
 - Pre-recorder video lectures: see group chat.
+- Live practical sessions: *Mondays & Wednesdays 19:00 Moscow time*. Recordings are uploaded afterwards.
 
+<!---
 - Live practical sessions: *Tuesdays & Fridays 19:00 Moscow time*. Recordings are uploaded afterwards.
+-->
 
 ## Graded assignments
 
-1st graded assignemnt IS OUT (see group chat). **Submission deadline: Tuesday, October 27, 19:00 Moscow time**.
+
+1st graded assignemnt 
+
+<!---
+IS OUT (see group chat). **Submission deadline: Tuesday, October 27, 19:00 Moscow time**.
 
 Additional materials:
 - [Reduced Row-Echelon Form](https://youtu.be/1rBU0yIyQQ8)
 - [How to Determine if a Set of Vectors is Linearly Independent](https://youtu.be/L1ErFhSxIew)
+-->
 
-2nd graded assignemnt IS OUT (see group chat). **Submission deadline: Sunday, November 7, 23:59 Moscow time**.
-
+2nd graded assignemnt 
+<!---
+IS OUT (see group chat). **Submission deadline: Sunday, November 7, 23:59 Moscow time**.
+-->
 3rd graded assignemnt
 
 4th graded assignemnt
 
 5th graded assignemnt
 
+
+
 ## Course materials
 
 Lecture notes can be found in the repository. 
 
-### 8.10 Intro
+### 29.09 Intro
 
-### 14.10 Euclidian spaces
+### 3.10 Euclidian spaces
 
 Quiz [[google form](https://forms.gle/uwgLicwGB42zPsbr8)]
 
 Python practice:
-- Color vectors [[notebook](https://colab.research.google.com/drive/1zvTfZ8jE_zNIJbwJwM89dr_wpRVYEWMM?usp=sharing)][[solutions](https://colab.research.google.com/drive/1OiRR3EfKwHNxdHHRqob8FmEJwvov9oek?usp=sharing)]
-- Word vectors [[notebook](https://colab.research.google.com/drive/1-lpjmwYVI4_IcrXtnwtZyttMiOFg97a0?usp=sharing)][[solutions](https://colab.research.google.com/drive/1yU8vtMA4KxSVk0WH59WNhXTiwdaP7HZ-?usp=sharing)]
+- Color vectors [[notebook](https://colab.research.google.com/drive/1zvTfZ8jE_zNIJbwJwM89dr_wpRVYEWMM?usp=sharing)]
+<!---[[solutions](https://colab.research.google.com/drive/1OiRR3EfKwHNxdHHRqob8FmEJwvov9oek?usp=sharing)]--->
+- Word vectors [[notebook](https://colab.research.google.com/drive/1-lpjmwYVI4_IcrXtnwtZyttMiOFg97a0?usp=sharing)]
+<!---[[solutions](https://colab.research.google.com/drive/1yU8vtMA4KxSVk0WH59WNhXTiwdaP7HZ-?usp=sharing)]--->
 
+<!---
 ### 16.10 Vector Spaces
 
 Exercises on basis change [solutions]
@@ -108,14 +123,18 @@ Additional material on integrals:
 - [Indefinite integrals](https://tutorial.math.lamar.edu/Classes/CalcI/IndefiniteIntegrals.aspx)
 - [Intergation techniques](https://tutorial.math.lamar.edu/Classes/CalcII/IntTechIntro.aspx)
 
+--->
+
 ## Recommended literature 
 
 ### Calculus
 
+<!---
 - (Youtube playlist) [Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - (lecture notes) Introduction to Differential Calculus [[pdf](https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/introduction-to-differential-calculus.pdf)]
 - (lecture notes) First Semester Calculus [[pdf](https://people.math.wisc.edu/~angenent/Free-Lecture-Notes/free221.pdf)]
 
+--->
 ### Linear Algebra
 
 - (course) [Topics in Linear Algebra](https://web.auburn.edu/holmerr/2660): lecture notes + quizes.
