@@ -38,19 +38,23 @@ Lecture notes can be found in the repository.
 
 ### 29.09 Intro
 
+Getting to know each other 
+[[slides](https://github.com/girafe-ai/math-basics-for-ai/blob/master/practical%20sessions/practical-session-00-intro.pdf)] [[google form](https://forms.gle/aANLerpgS4aF4Z398)]
+
 ### 3.10 Euclidian spaces
 
 Quiz [[google form](https://forms.gle/uwgLicwGB42zPsbr8)]
 
 Python practice:
-- Color vectors [[notebook](https://colab.research.google.com/drive/1zvTfZ8jE_zNIJbwJwM89dr_wpRVYEWMM?usp=sharing)]
+- Color vectors [[notebook](https://colab.research.google.com/drive/1zvTfZ8jE_zNIJbwJwM89dr_wpRVYEWMM?usp=sharing)][solutions]
 <!---[[solutions](https://colab.research.google.com/drive/1OiRR3EfKwHNxdHHRqob8FmEJwvov9oek?usp=sharing)]--->
-- Word vectors [[notebook](https://colab.research.google.com/drive/1-lpjmwYVI4_IcrXtnwtZyttMiOFg97a0?usp=sharing)]
+- Word vectors [[notebook](https://colab.research.google.com/drive/1-lpjmwYVI4_IcrXtnwtZyttMiOFg97a0?usp=sharing)][solutions]
 <!---[[solutions](https://colab.research.google.com/drive/1yU8vtMA4KxSVk0WH59WNhXTiwdaP7HZ-?usp=sharing)]--->
 
-<!---
-### 16.10 Vector Spaces
 
+### 10.10 Vector Spaces
+
+<!---
 Exercises on basis change [solutions]
 
 Python practice: Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/19DqtURFOwWP6RykklXI1eRDu6Fhgybwu?usp=sharing)][[solutions](https://colab.research.google.com/drive/1djaKMU9ZjrA1fvMtVyVR6eEi1Smq6bW2?usp=sharing)] 
@@ -58,6 +62,7 @@ Python practice: Gram-Schmidt process [[notebook](https://colab.research.google.
 Additional readings:
 
 ### 19.10 Matrices & Linear transforms
+
 
 Quiz [[google form](https://forms.gle/Mw28SUSTwohWWv9d7)]
 
