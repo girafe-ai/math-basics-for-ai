@@ -1,11 +1,9 @@
 ## Logistics
 
+- Lecturer: [Evgeniya Korneva](https://www.linkedin.com/in/evgeniyako/)
 - Pre-recorder video lectures: see group chat.
 - Live practical sessions: *Mondays & Wednesdays 19:00 Moscow time*. Recordings are uploaded afterwards.
-
-<!---
-- Live practical sessions: *Tuesdays & Fridays 19:00 Moscow time*. Recordings are uploaded afterwards.
--->
+- Office hours: upon request
 
 ## Graded assignments
 
@@ -39,7 +37,7 @@ Lecture notes can be found in the repository.
 ### 29.09 Intro
 
 Getting to know each other 
-[[slides](https://github.com/girafe-ai/math-basics-for-ai/blob/master/practical%20sessions/practical-session-00-intro.pdf)] [[google form](https://forms.gle/aANLerpgS4aF4Z398)]
+[[course intro](https://github.com/girafe-ai/math-basics-for-ai/blob/master/practical%20sessions/practical-session-00-intro.pdf)] [[google form](https://forms.gle/aANLerpgS4aF4Z398)]
 
 ### 3.10 Euclidian spaces
 
