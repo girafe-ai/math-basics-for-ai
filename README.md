@@ -45,9 +45,9 @@ Quiz [[google form](https://forms.gle/uwgLicwGB42zPsbr8)]
 
 Python practice:
 - Color vectors [[notebook](https://colab.research.google.com/drive/1zvTfZ8jE_zNIJbwJwM89dr_wpRVYEWMM?usp=sharing)][solutions]
-<!---[[solutions](https://colab.research.google.com/drive/1OiRR3EfKwHNxdHHRqob8FmEJwvov9oek?usp=sharing)]--->
+[[solutions](https://colab.research.google.com/drive/1OiRR3EfKwHNxdHHRqob8FmEJwvov9oek?usp=sharing)]
 - Word vectors [[notebook](https://colab.research.google.com/drive/1-lpjmwYVI4_IcrXtnwtZyttMiOFg97a0?usp=sharing)][solutions]
-<!---[[solutions](https://colab.research.google.com/drive/1yU8vtMA4KxSVk0WH59WNhXTiwdaP7HZ-?usp=sharing)]--->
+[[solutions](https://colab.research.google.com/drive/1yU8vtMA4KxSVk0WH59WNhXTiwdaP7HZ-?usp=sharing)]
 
 
 ### 10.10 Vector Spaces
