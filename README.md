@@ -52,10 +52,11 @@ Python practice:
 
 ### 10.10 Vector Spaces
 
+Python practice: Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/19DqtURFOwWP6RykklXI1eRDu6Fhgybwu?usp=sharing)]
+<!--[[solutions](https://colab.research.google.com/drive/1djaKMU9ZjrA1fvMtVyVR6eEi1Smq6bW2?usp=sharing)]-->
+
 <!---
 Exercises on basis change [solutions]
-
-Python practice: Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/19DqtURFOwWP6RykklXI1eRDu6Fhgybwu?usp=sharing)][[solutions](https://colab.research.google.com/drive/1djaKMU9ZjrA1fvMtVyVR6eEi1Smq6bW2?usp=sharing)] 
 
 Additional readings:
 
