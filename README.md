@@ -10,13 +10,12 @@
 
 1st graded assignemnt 
 
-<!---
-IS OUT (see group chat). **Submission deadline: Tuesday, October 27, 19:00 Moscow time**.
+[Google form](https://forms.gle/LB5LTEoJ3jhWgPTE8) 
+**Submission deadline: Monday, October 17, 23:59 Anywhere on Earth**.
 
 Additional materials:
 - [Reduced Row-Echelon Form](https://youtu.be/1rBU0yIyQQ8)
 - [How to Determine if a Set of Vectors is Linearly Independent](https://youtu.be/L1ErFhSxIew)
--->
 
 2nd graded assignemnt 
 <!---
