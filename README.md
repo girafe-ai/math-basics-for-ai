@@ -53,22 +53,19 @@ Python practice:
 ### 10.10 Vector Spaces
 
 Python practice: Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/19DqtURFOwWP6RykklXI1eRDu6Fhgybwu?usp=sharing)]
-<!--[[solutions](https://colab.research.google.com/drive/1djaKMU9ZjrA1fvMtVyVR6eEi1Smq6bW2?usp=sharing)]-->
+[[solutions](https://colab.research.google.com/drive/1djaKMU9ZjrA1fvMtVyVR6eEi1Smq6bW2?usp=sharing)]
 
-<!---
-Exercises on basis change [solutions]
+### 12.10 Matrices & Linear transforms
 
-Additional readings:
-
-### 19.10 Matrices & Linear transforms
-
-
-Quiz [[google form](https://forms.gle/Mw28SUSTwohWWv9d7)]
+Quiz [[google form](https://forms.gle/VWCNNXTWoZ5CrkyY9)]
 
 Additional reading:
 - Inverse of a matrix [[pdf](https://web.auburn.edu/holmerr/2660/Textbook/invertibility-print.pdf)]
 - Orthogonality [[pdf](https://web.auburn.edu/holmerr/2660/Textbook/orthogonality-print.pdf)]
 - Orthogonal projections[[pdf](https://www.math.utk.edu/~mengesha/teaching/Math2025/Lecture8.pdf)]
+
+<!---
+
 ### 22.10
 
 *Graded assignment 1 is out*
