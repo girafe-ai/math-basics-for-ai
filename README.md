@@ -13,7 +13,7 @@
 *Submission deadline: Monday, October 17, 23:59 Anywhere on Earth*.
 
 
-[Google form](https://forms.gle/LB5LTEoJ3jhWgPTE8) 
+[[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/graded-assignment-01.pdf)][[Google form](https://forms.gle/LB5LTEoJ3jhWgPTE8)]
 
 Additional materials:
 - [Reduced Row-Echelon Form](https://youtu.be/1rBU0yIyQQ8)
