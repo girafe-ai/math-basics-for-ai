@@ -65,6 +65,11 @@ Additional reading:
 - Orthogonality [[pdf](https://web.auburn.edu/holmerr/2660/Textbook/orthogonality-print.pdf)]
 - Orthogonal projections[[pdf](https://www.math.utk.edu/~mengesha/teaching/Math2025/Lecture8.pdf)]
 
+### 17.10 Least Squares
+
+Python practice: Least squares from scratch [[notebook](https://colab.research.google.com/drive/1v_dDH5aSx9pQG4SSCLzNjKuCk6rwNWzf?usp=sharing
+)]
+
 <!---
 
 ### 22.10
