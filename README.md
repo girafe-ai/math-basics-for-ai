@@ -72,7 +72,7 @@ Additional reading:
 ### 17.10 Least Squares
 
 Python practice: Least squares from scratch [[notebook](https://colab.research.google.com/drive/1v_dDH5aSx9pQG4SSCLzNjKuCk6rwNWzf?usp=sharing
-)]
+)][[solutions](https://colab.research.google.com/drive/1_Kfewsh9QDPvn8rYUoRa4Ck-C9eDjkkU?usp=sharing)]
 
 <!---
 
