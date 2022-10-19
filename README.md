@@ -13,16 +13,20 @@
 
 *Submission deadline: Monday, October 17, 23:59 Anywhere on Earth*.
 
-
-
 Additional materials:
 - [Reduced Row-Echelon Form](https://youtu.be/1rBU0yIyQQ8)
 - [How to Determine if a Set of Vectors is Linearly Independent](https://youtu.be/L1ErFhSxIew)
 
-**2nd graded assignemnt**
-<!---
-IS OUT (see group chat). **Submission deadline: Sunday, November 7, 23:59 Moscow time**.
--->
+**2nd graded assignemnt** [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/graded-assignment-02.pdf)][[Google form](https://forms.gle/RjRqiBHgMRZfX4a8A)]
+
+*Submission deadline: Monday, October 24, 23:59 Anywhere on Earth*.
+
+Additional materials:
+- [SLE + Gaussian Elimination](https://portal.tpu.ru/SHARED/k/KONVAL/Sites/English_sites/M/s_HomoE.htm)
+- [Gaussian Elimination for Solving SLE - An Example](https://web.auburn.edu/holmerr/2660/Textbook/system-print.pdf)
+- [An Example of QR Factorization](https://youtu.be/VsyNkUo88NM)
+- [Using QR Factorization to Solve Least-Squares Problems](https://youtu.be/-QY5iwNr9I4)
+
 **3rd graded assignemnt**
 
 **4th graded assignemnt**
