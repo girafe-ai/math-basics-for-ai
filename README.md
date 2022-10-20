@@ -76,7 +76,7 @@ Python practice: Least squares from scratch [[notebook](https://colab.research.g
 
 ### 19.10 PCA
 
-Python practice: PCA from scratch [[notebook](https://colab.research.google.com/drive/1DalSTyBr5s84EJuxVZ8uwNSwpq0OTS0k?usp=sharing)]
+Python practice: PCA from scratch [[notebook](https://colab.research.google.com/drive/1DalSTyBr5s84EJuxVZ8uwNSwpq0OTS0k?usp=sharing)][[solutions](https://colab.research.google.com/drive/1JNN9DrU3kTzWYqoi2jt2sBRZEu7vTAFh?usp=sharing)]
 <!---
 
 ### 22.10
