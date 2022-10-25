@@ -78,6 +78,10 @@ Python practice: Least squares from scratch [[notebook](https://colab.research.g
 
 Python practice: PCA from scratch [[notebook](https://colab.research.google.com/drive/1DalSTyBr5s84EJuxVZ8uwNSwpq0OTS0k?usp=sharing)][[solutions](https://colab.research.google.com/drive/1JNN9DrU3kTzWYqoi2jt2sBRZEu7vTAFh?usp=sharing)]
 
+Additional readings:
+- LU decomposition: explanation and exercises [[pdf](https://learn.lboro.ac.uk/archive/olmp/olmp_resources/pages/workbooks_1_50_jan2008/Workbook30/30_3_lu_decmp.pdf)]
+- PCA explained [[pdf](http://www.math.union.edu/~jaureguj/PCA.pdf)]
+
 ### 24.10 PCA and SVD
 
 Quiz: [[Google form](https://forms.gle/ohsrDkAJPCwDTZGaA)]
