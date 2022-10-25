@@ -27,7 +27,11 @@ Additional materials:
 - [An Example of QR Factorization](https://youtu.be/VsyNkUo88NM)
 - [Using QR Factorization to Solve Least-Squares Problems](https://youtu.be/-QY5iwNr9I4)
 
-**3rd graded assignemnt**
+**3rd graded assignemnt** [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/graded-assignment-03/graded-assignmnet-03.pdf)][[Google form](https://forms.gle/5gy8L7fGMpMehCzeA)]
+
+Additional materials:
+- SVD and Image Compression [[video 1](https://youtu.be/DG7YTlGnCEo)], [[video 2](https://youtu.be/H7qMMudo3e8)]
+
 
 **4th graded assignemnt**
 
