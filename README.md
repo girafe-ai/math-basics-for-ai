@@ -84,6 +84,15 @@ Quiz: [[Google form](https://forms.gle/ohsrDkAJPCwDTZGaA)]
 
 Python practice: SVD [[notebook](https://colab.research.google.com/drive/1faLfFmMHZbxtpzgZxxT6MCBuy57CE7Po?usp=sharing)]
 
+Additional examples on SVD:
+- MIT lecture [[video](https://youtu.be/rYz83XPxiZo)] 
+- MIT lecture notes [[pdf](https://math.mit.edu/classes/18.095/2016IAP/lec2/SVD_Notes.pdf)]
+- UC Berkeley lecture notes [[pdf](https://math.berkeley.edu/~hutching/teach/54-2017/svd-notes.pdf)]
+- SVD Computation examples [[pdf 1](https://www.d.umn.edu/~mhampton/m4326svd_example.pdf)][[pdf 2](https://mysite.science.uottawa.ca/phofstra/MAT2342/SVDproblems.pdf)]
+- Relationship between SVD and PCA [[pdf](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca)]
+- SVD and Image Compression [[video](https://youtu.be/DG7YTlGnCEo)] 
+ 
+
 <!---
 
 ### 22.10
