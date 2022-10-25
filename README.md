@@ -78,11 +78,24 @@ Python practice: Least squares from scratch [[notebook](https://colab.research.g
 
 Python practice: PCA from scratch [[notebook](https://colab.research.google.com/drive/1DalSTyBr5s84EJuxVZ8uwNSwpq0OTS0k?usp=sharing)][[solutions](https://colab.research.google.com/drive/1JNN9DrU3kTzWYqoi2jt2sBRZEu7vTAFh?usp=sharing)]
 
+Additional readings:
+- LU decomposition: explanation and exercises [[pdf](https://learn.lboro.ac.uk/archive/olmp/olmp_resources/pages/workbooks_1_50_jan2008/Workbook30/30_3_lu_decmp.pdf)]
+- PCA explained [[pdf](http://www.math.union.edu/~jaureguj/PCA.pdf)]
+
 ### 24.10 PCA and SVD
 
 Quiz: [[Google form](https://forms.gle/ohsrDkAJPCwDTZGaA)]
 
 Python practice: SVD [[notebook](https://colab.research.google.com/drive/1faLfFmMHZbxtpzgZxxT6MCBuy57CE7Po?usp=sharing)]
+
+Additional examples on SVD:
+- MIT lecture [[video](https://youtu.be/rYz83XPxiZo)] 
+- MIT lecture notes [[pdf](https://math.mit.edu/classes/18.095/2016IAP/lec2/SVD_Notes.pdf)]
+- UC Berkeley lecture notes [[pdf](https://math.berkeley.edu/~hutching/teach/54-2017/svd-notes.pdf)]
+- SVD Computation examples [[pdf 1](https://www.d.umn.edu/~mhampton/m4326svd_example.pdf)][[pdf 2](https://mysite.science.uottawa.ca/phofstra/MAT2342/SVDproblems.pdf)]
+- Relationship between SVD and PCA [[pdf](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca)]
+- SVD and Image Compression [[video](https://youtu.be/DG7YTlGnCEo)] 
+ 
 
 <!---
 
