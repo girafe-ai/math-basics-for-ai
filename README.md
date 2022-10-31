@@ -171,12 +171,10 @@ Additional material on integrals:
 
 ### Calculus
 
-<!---
 - (Youtube playlist) [Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - (lecture notes) Introduction to Differential Calculus [[pdf](https://www.sydney.edu.au/content/dam/students/documents/mathematics-learning-centre/introduction-to-differential-calculus.pdf)]
 - (lecture notes) First Semester Calculus [[pdf](https://people.math.wisc.edu/~angenent/Free-Lecture-Notes/free221.pdf)]
 
---->
 ### Linear Algebra
 
 - (course) [Topics in Linear Algebra](https://web.auburn.edu/holmerr/2660): lecture notes + quizes.
