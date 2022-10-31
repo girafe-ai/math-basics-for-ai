@@ -103,7 +103,10 @@ Additional examples on SVD:
 ### 31.10 Derivatives and Extrema of a Function
 
 Quiz: [[Google form](https://forms.gle/ACcGPVFWwJWb7kTF9)]
- 
+
+Python practice: Linear Regression The Other Way [[notebook](https://colab.research.google.com/drive/16Dmy9ePK3-cytfFCfKJ9sKWaYBT0bLMw?usp=sharing)]
+
+If you need extra practice with derivatives, you can find lots of exercises online. For example, consider this [Common derivatives challenge](https://www.khanacademy.org/math/in-in-grade-12-ncert/xd340c21e718214c5:continuity-differentiability/xd340c21e718214c5:review-differentiation-basics/e/special_derivatives) or these [exercises](https://math.fel.cvut.cz/mt/mtold/menue3cd.htm) with solutions.
 
 <!---
 
