@@ -99,6 +99,10 @@ Additional examples on SVD:
 - SVD Computation examples [[pdf 1](https://www.d.umn.edu/~mhampton/m4326svd_example.pdf)][[pdf 2](https://mysite.science.uottawa.ca/phofstra/MAT2342/SVDproblems.pdf)]
 - Relationship between SVD and PCA [[pdf](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca)]
 - SVD and Image Compression [[video](https://youtu.be/DG7YTlGnCEo)] 
+
+### 31.10 Derivatives and Extrema of a Function
+
+Quiz: [[Google form](https://forms.gle/ACcGPVFWwJWb7kTF9)]
  
 
 <!---
