@@ -100,13 +100,15 @@ Additional examples on SVD:
 - Relationship between SVD and PCA [[pdf](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca)]
 - SVD and Image Compression [[video](https://youtu.be/DG7YTlGnCEo)] 
 
-### 31.10 Derivatives and Extrema of a Function
+### 31.10 Derivatives and Extrema of a Function - 1 (univariate functions)
 
 Quiz: [[Google form](https://forms.gle/ACcGPVFWwJWb7kTF9)]
 
-Python practice: Linear Regression The Other Way [[notebook](https://colab.research.google.com/drive/16Dmy9ePK3-cytfFCfKJ9sKWaYBT0bLMw?usp=sharing)]
-
 If you need extra practice with derivatives, you can find lots of exercises online. For example, consider this [Common derivatives challenge](https://www.khanacademy.org/math/in-in-grade-12-ncert/xd340c21e718214c5:continuity-differentiability/xd340c21e718214c5:review-differentiation-basics/e/special_derivatives) or these [exercises](https://math.fel.cvut.cz/mt/mtold/menue3cd.htm) with solutions.
+
+### 02.11 Derivatives and Extrema of a Function - 2 (multivariate functions)
+
+Python practice: Linear Regression The Other Way [[notebook](https://colab.research.google.com/drive/16CBqaMoIkKPysMjEoIwTXENbvuRWn-M3?usp=sharing)]
 
 <!---
 
