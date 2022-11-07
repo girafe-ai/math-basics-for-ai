@@ -110,6 +110,12 @@ If you need extra practice with derivatives, you can find lots of exercises onli
 
 Python practice: Linear Regression The Other Way [[notebook](https://colab.research.google.com/drive/16CBqaMoIkKPysMjEoIwTXENbvuRWn-M3?usp=sharing)]
 
+### 7.11 Integrals - part 1
+
+Additional material on integrals:
+- [Indefinite integrals](https://tutorial.math.lamar.edu/Classes/CalcI/IndefiniteIntegrals.aspx)
+- [Intergation techniques](https://tutorial.math.lamar.edu/Classes/CalcII/IntTechIntro.aspx)
+
 <!---
 
 ### 22.10
