@@ -33,9 +33,10 @@ Additional materials:
 - SVD and Image Compression [[video 1](https://youtu.be/DG7YTlGnCEo)], [[video 2](https://youtu.be/H7qMMudo3e8)]
 
 
-**4th graded assignemnt**
+**4th graded assignemnt** [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/graded-assignment-04.pdf)][[Google form](https://forms.gle/s8peAgiXijDXLaNK8)]
 
-**5th graded assignemnt**
+*Submission deadline: Monday, November 14, 23:59 Anywhere on Earth*.
+
 
 
 
