@@ -37,8 +37,9 @@ Additional materials:
 
 *Submission deadline: Monday, November 14, 23:59 Anywhere on Earth*.
 
+**Final Exam** [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/final-exam.pdf)][[Google form](https://forms.gle/fvKFBJau4V5BmahW8)]
 
-
+*Submission deadline: Monday, December 19, 23:59 Anywhere on Earth*.
 
 ## Course materials
 
