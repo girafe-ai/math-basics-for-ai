@@ -25,10 +25,10 @@
 
 - (book) [Mathematics for Machine Learning](https://mml-book.github.io/)
 
-
 ## Agenda
 
 ### 0. *Monday, Sept 25*: Introduction
+- Welcome quiz [[google form](https://forms.gle/Wa9VHfvcJxoqQ6H2A)]
 ### 1. *Friday, Sept 29* 
 ### 2. *Monday, Oct 2*
 ### 3. *Friday, Oct 6* 
