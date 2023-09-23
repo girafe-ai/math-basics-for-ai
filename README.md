@@ -5,7 +5,7 @@
 - Live practical sessions: *Mondays & Fridays 19:00 Moscow time*. Recordings are uploaded afterwards.
 - Office hours: upon request
 
-## Recommended literature 
+## Useful Resources
 
 ### Linear Algebra
 
@@ -24,3 +24,19 @@
 ### General
 
 - (book) [Mathematics for Machine Learning](https://mml-book.github.io/)
+
+
+## Agenda
+
+### 0. *Monday, Sept 25*: Introduction
+### 1. *Friday, Sept 29* 
+### 2. *Monday, Oct 2*
+### 3. *Friday, Oct 6* 
+### 4. *Monday, Oct 9*
+### 5. *Friday, Oct 13* 
+### 6. *Monday, Oct 16*
+### 7. *Friday, Oct 20* 
+### 8. *Monday, Oct 23*
+### 9. *Friday, Oct 27* 
+### 10. *Monday, Oct 30* 
+
