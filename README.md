@@ -44,11 +44,11 @@
     - practice: recreate the formulas you see (try not to look at the source first!) [[link](https://www.overleaf.com/read/wtqvpbyrgzcj)].
   
 ### 1. *Friday, Sept 29* 
-- Color vectors [[notebook](https://colab.research.google.com/drive/1mtcmhcz-HCMkDqxJ-roliz-wuN_C32-p?usp=sharing)][solutions]
-- Word vectors [[notebook](https://colab.research.google.com/drive/1mpO3lKo72Nw-Rx6NoGW0oiqjAvBs--CD?usp=sharing)][solutions]
+- Color vectors [[notebook](https://colab.research.google.com/drive/1mtcmhcz-HCMkDqxJ-roliz-wuN_C32-p?usp=sharing)][[solutions](https://colab.research.google.com/drive/18-jP5VuiuJKfF2ws5so8S0OTrhgaU-WB?usp=sharing)]
 - Linear classifier [[notebook](https://colab.research.google.com/drive/1rilZVq9-P75B0YGmmC8CpLcx_H5vUd1j?usp=sharing)][solutions]
-- Homework:
-    - lecture 1 quiz (not graded) [[google form](https://forms.gle/rgaLKRGg2sojDDnEA)]
+- Homework (not graded):
+    - Word vectors [[notebook](https://colab.research.google.com/drive/1mpO3lKo72Nw-Rx6NoGW0oiqjAvBs--CD?usp=sharing)][solutions]
+    - lecture 1 quiz [[google form](https://forms.gle/rgaLKRGg2sojDDnEA)]
     - watch lecture 2
       
 ### 2. *Monday, Oct 2*
