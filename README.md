@@ -52,7 +52,13 @@
     - watch lecture 2
       
 ### 2. *Monday, Oct 2*
-- Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/1YOroseAK4q1xdXH3vj3KLPPZGKZhqSOl?usp=sharing)]
+- Quiz review: norms
+- Cosine similarity vs. Euclidian distance
+- Gram-Schmidt process
+- Homework:
+    - Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/1YOroseAK4q1xdXH3vj3KLPPZGKZhqSOl?usp=sharing)]
+    - watch lecture 3
+    - graded assignment 1 is OUT (deadline next Monday before the class)
 ### 3. *Friday, Oct 6* 
 ### 4. *Monday, Oct 9*
 ### 5. *Friday, Oct 13* 
