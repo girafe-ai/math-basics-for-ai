@@ -63,6 +63,9 @@
     - watch lecture 3
     - graded assignment 1 is OUT (deadline next Monday before the class)
 ### 3. *Friday, Oct 6* 
+- Quiz: lectures 1 - 3 [[google form](https://forms.gle/2snsnCRiMHPQXnLX9)]
+- Method of least squares
+    - Python practice [[notebook](https://colab.research.google.com/drive/1zuWIfi_IhmP0JMRmJoyV_DU9WmzpbVLS?usp=sharing)]
 ### 4. *Monday, Oct 9*
 ### 5. *Friday, Oct 13* 
 ### 6. *Monday, Oct 16*
