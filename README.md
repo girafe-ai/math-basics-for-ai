@@ -59,7 +59,7 @@
 - Cosine similarity vs. Euclidian distance
 - Gram-Schmidt process
 - Homework:
-    - Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/1YOroseAK4q1xdXH3vj3KLPPZGKZhqSOl?usp=sharing)]
+    - Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/1YOroseAK4q1xdXH3vj3KLPPZGKZhqSOl?usp=sharing)][[solutions](https://colab.research.google.com/drive/1P7M26zMPhbFN2PhEn3HWMhGv6o6HX90h?usp=sharing)]
     - watch lecture 3
     - graded assignment 1 is OUT (deadline next Monday before the class)
 ### 3. *Friday, Oct 6* 
