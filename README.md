@@ -65,7 +65,10 @@
 ### 3. *Friday, Oct 6* 
 - Quiz: lectures 1 - 3 [[google form](https://forms.gle/2snsnCRiMHPQXnLX9)]
 - Method of least squares
+- Homework
     - Python practice [[notebook](https://colab.research.google.com/drive/1zuWIfi_IhmP0JMRmJoyV_DU9WmzpbVLS?usp=sharing)]
+    - watch lecture 4
+    - graded assignment 1 (deadline Monday, October 9 before the class)
 ### 4. *Monday, Oct 9*
 ### 5. *Friday, Oct 13* 
 ### 6. *Monday, Oct 16*
