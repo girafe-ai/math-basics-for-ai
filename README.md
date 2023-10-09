@@ -35,6 +35,8 @@
 - [Detexify](https://detexify.kirelabs.org/classify.html) - draw a symbol you are looking for, and this web will give you its latex representation.
 
 ## Graded assignments
+- Graded assignment 2 [[notebook](https://colab.research.google.com/drive/1G2C8fHgRUXEZdj6MLDlqfZEwyKXpL-sP?usp=sharing)] [[submission form](https://forms.gle/B6LkbaWZsq7gqoXEA)]
+    - *Deadline: Monday, October 16, 18:59 Moscow time*
 - Graded assignment 1 [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/graded-assignment-01.pdf)] [[LaTex template](https://www.overleaf.com/read/pvdgdjkchwms)] [[submission form](https://forms.gle/G29haJ8xDNsBwXyh7)]
     - *Deadline: Monday, October 9, 18:59 Moscow time*
 ## Agenda
@@ -66,10 +68,15 @@
 - Quiz: lectures 1 - 3 [[google form](https://forms.gle/2snsnCRiMHPQXnLX9)]
 - Method of least squares
 - Homework
-    - Python practice [[notebook](https://colab.research.google.com/drive/1zuWIfi_IhmP0JMRmJoyV_DU9WmzpbVLS?usp=sharing)]
+    - *(extended to graded assignmnet)* Python practice [[notebook](https://colab.research.google.com/drive/1zuWIfi_IhmP0JMRmJoyV_DU9WmzpbVLS?usp=sharing)]
     - watch lecture 4
     - graded assignment 1 (deadline Monday, October 9 before the class)
 ### 4. *Monday, Oct 9*
+- Quiz: [[google form](https://forms.gle/f9uA87vKqjcHb6GG8)]
+- PCA
+    - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)]
+- Homework:
+    - graded assignment 2 (deadline Monday, October 16 before the class)
 ### 5. *Friday, Oct 13* 
 ### 6. *Monday, Oct 16*
 ### 7. *Friday, Oct 20* 
