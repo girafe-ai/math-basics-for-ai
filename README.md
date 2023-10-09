@@ -73,11 +73,12 @@
     - graded assignment 1 (deadline Monday, October 9 before the class)
 ### 4. *Monday, Oct 9*
 - Quiz: [[google form](https://forms.gle/f9uA87vKqjcHb6GG8)]
-- PCA
-    - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)]
 - Homework:
     - graded assignment 2 (deadline Monday, October 16 before the class)
+    - review eigendecomposition
 ### 5. *Friday, Oct 13* 
+- PCA
+    - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)]
 ### 6. *Monday, Oct 16*
 ### 7. *Friday, Oct 20* 
 ### 8. *Monday, Oct 23*
