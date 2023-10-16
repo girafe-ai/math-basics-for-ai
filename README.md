@@ -82,6 +82,8 @@
 - PCA
     - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)]
 ### 6. *Monday, Oct 16*
+- SVD
+  - Python practice [[notebook](https://colab.research.google.com/drive/1sHWWMMhdevgXLuQ4XpdhC48hdzGu7PqY?usp=sharing)]
 ### 7. *Friday, Oct 20* 
 ### 8. *Monday, Oct 23*
 ### 9. *Friday, Oct 27* 
