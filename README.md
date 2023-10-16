@@ -80,10 +80,10 @@
     - review eigendecomposition
 ### 5. *Friday, Oct 13* 
 - PCA
-    - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)]
+    - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)][[solutions](https://colab.research.google.com/drive/14NCSyCsr7sR_YtctaurVDI650CNCiwS3?usp=sharing)]
 ### 6. *Monday, Oct 16*
 - SVD
-  - Python practice [[notebook](https://colab.research.google.com/drive/1sHWWMMhdevgXLuQ4XpdhC48hdzGu7PqY?usp=sharing)]
+  - Python practice [[notebook](https://colab.research.google.com/drive/1sHWWMMhdevgXLuQ4XpdhC48hdzGu7PqY?usp=sharing)][[solutions](https://colab.research.google.com/drive/1BtMvBemFQzgfxXCQoP5r4EylgGYx2HgH?usp=sharing)]
 ### 7. *Friday, Oct 20* 
 ### 8. *Monday, Oct 23*
 ### 9. *Friday, Oct 27* 
