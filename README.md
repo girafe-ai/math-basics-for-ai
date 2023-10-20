@@ -85,6 +85,7 @@
 - SVD
   - Python practice [[notebook](https://colab.research.google.com/drive/1sHWWMMhdevgXLuQ4XpdhC48hdzGu7PqY?usp=sharing)][[solutions](https://colab.research.google.com/drive/1BtMvBemFQzgfxXCQoP5r4EylgGYx2HgH?usp=sharing)]
 ### 7. *Friday, Oct 20* 
+- Quiz: [[google form](https://forms.gle/2gUFUu1RPQ8ZUFiK6)]
 ### 8. *Monday, Oct 23*
 ### 9. *Friday, Oct 27* 
 ### 10. *Monday, Oct 30* 
