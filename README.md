@@ -87,6 +87,7 @@
 ### 7. *Friday, Oct 20* 
 - Quiz: [[google form](https://forms.gle/2gUFUu1RPQ8ZUFiK6)]
 ### 8. *Monday, Oct 23*
+- Multivariate functions
 ### 9. *Friday, Oct 27* 
 ### 10. *Monday, Oct 30* 
 
