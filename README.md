@@ -89,5 +89,9 @@
 ### 8. *Monday, Oct 23*
 - Multivariate functions
 ### 9. *Friday, Oct 27* 
+- Chain rule
+- Matrix derivatives
 ### 10. *Monday, Oct 30* 
+- Gradient descent
+- Integration techniques
 
