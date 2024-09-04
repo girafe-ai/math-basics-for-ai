@@ -48,21 +48,30 @@
     - *Deadline: Monday, October 9, 18:59 Moscow time*
 --->
 ## Agenda
-<!---
-### 0. *Monday, Sept 25*: Introduction
-- Welcome quiz [[google form](https://forms.gle/Wa9VHfvcJxoqQ6H2A)]
-- Homework (not mandatory) - getting familiar with LaTeX
-    - create an [Overleaf](https://www.overleaf.com/) account;
-    - check out some of the tutorials (e.g., mentioned above);
-    - practice: recreate the formulas you see (try not to look at the source first!) [[link](https://www.overleaf.com/read/wtqvpbyrgzcj)].
-  
+
+### 1. *Wednesday, Sept 25*: Introduction
+- Welcome quiz [[google form](https://forms.gle/wvdnQTxeEnzGg2Ff7)]
+- Color vectors [[notebook](https://colab.research.google.com/drive/1mtcmhcz-HCMkDqxJ-roliz-wuN_C32-p?usp=sharing)]
+  <!--- [[solutions](https://colab.research.google.com/drive/18-jP5VuiuJKfF2ws5so8S0OTrhgaU-WB?usp=sharing)] --->
+- Word vectors [[notebook](https://colab.research.google.com/drive/1mpO3lKo72Nw-Rx6NoGW0oiqjAvBs--CD?usp=sharing)]
+  <!--- [[solutions](https://colab.research.google.com/drive/1Xs_skBeYRJRk_BcGZcf3jwT9mSFVrYPN?usp=sharing)] --->
+- Homework:
+    - watch lectures 1 & 2 (see chat);
+    - lecture 1 quiz [[google form](https://forms.gle/Sx9z1ouHwXhbUx2S7)] (not graded)
+
+<!---  
 ### 1. *Friday, Sept 29* 
-- Color vectors [[notebook](https://colab.research.google.com/drive/1mtcmhcz-HCMkDqxJ-roliz-wuN_C32-p?usp=sharing)][[solutions](https://colab.research.google.com/drive/18-jP5VuiuJKfF2ws5so8S0OTrhgaU-WB?usp=sharing)]
+
 - Linear classifier [[notebook](https://colab.research.google.com/drive/1rilZVq9-P75B0YGmmC8CpLcx_H5vUd1j?usp=sharing)][[solutions](https://colab.research.google.com/drive/1DWDgJU2MTr4keCStRtwBQJT3RpbyQO-u?usp=sharing)]
 - Homework (not graded):
     - Word vectors [[notebook](https://colab.research.google.com/drive/1mpO3lKo72Nw-Rx6NoGW0oiqjAvBs--CD?usp=sharing)][[solutions](https://colab.research.google.com/drive/1Xs_skBeYRJRk_BcGZcf3jwT9mSFVrYPN?usp=sharing)]
     - lecture 1 quiz [[google form](https://forms.gle/rgaLKRGg2sojDDnEA)]
     - watch lecture 2
+
+- Homework (not mandatory) - getting familiar with LaTeX
+    - create an [Overleaf](https://www.overleaf.com/) account;
+    - check out some of the tutorials (e.g., mentioned above);
+    - practice: recreate the formulas you see (try not to look at the source first!) [[link](https://www.overleaf.com/read/wtqvpbyrgzcj)].
       
 ### 2. *Monday, Oct 2*
 - Quiz review: norms
