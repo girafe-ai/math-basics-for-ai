@@ -2,7 +2,7 @@
 
 - Lecturer: [Evgeniya Korneva](https://www.linkedin.com/in/evgeniyako/)
 - Pre-recorder video lectures: see group chat.
-- Live practical sessions: *Mondays & Fridays 19:00 Moscow time*. Recordings are uploaded afterwards.
+- Live practical sessions: *Wednesdays & Fridays 19:00 Moscow time*. Recordings are uploaded afterwards.
 - Office hours: upon request
 
 ## Useful Resources
