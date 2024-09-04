@@ -49,7 +49,7 @@
 --->
 ## Agenda
 
-### 1. *Wednesday, Sept 25*: Introduction
+### 1. *Wednesday, Sept 4*: Introduction
 - Welcome quiz [[google form](https://forms.gle/wvdnQTxeEnzGg2Ff7)]
 - Color vectors [[notebook](https://colab.research.google.com/drive/1mtcmhcz-HCMkDqxJ-roliz-wuN_C32-p?usp=sharing)]
   <!--- [[solutions](https://colab.research.google.com/drive/18-jP5VuiuJKfF2ws5so8S0OTrhgaU-WB?usp=sharing)] --->
@@ -57,7 +57,7 @@
   <!--- [[solutions](https://colab.research.google.com/drive/1Xs_skBeYRJRk_BcGZcf3jwT9mSFVrYPN?usp=sharing)] --->
 - Homework:
     - watch lectures 1 & 2 (see chat);
-    - lecture 1 quiz [[google form](https://forms.gle/Sx9z1ouHwXhbUx2S7)] (not graded)
+    - lecture 1 quiz [[google form](https://forms.gle/Sx9z1ouHwXhbUx2S7)] (not graded).
 
 <!---  
 ### 1. *Friday, Sept 29* 
