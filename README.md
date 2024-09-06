@@ -63,16 +63,15 @@
     - create an [Overleaf](https://www.overleaf.com/) account;
     - check out some of the tutorials (e.g., mentioned above);
     - practice: recreate the formulas you see (try not to look at the source first!) [[link](https://www.overleaf.com/read/wtqvpbyrgzcj)].
-
-<!---  
-### 1. *Friday, Sept 29* 
+ 
+### 2. *Friday, Sept 6* 
 - Quiz review
-- Cosine similarity vs. Euclidian distance
-- Gram-Schmidt process
-- Linear classifier [[notebook](https://colab.research.google.com/drive/1rilZVq9-P75B0YGmmC8CpLcx_H5vUd1j?usp=sharing)][[solutions](https://colab.research.google.com/drive/1DWDgJU2MTr4keCStRtwBQJT3RpbyQO-u?usp=sharing)]
-- Homework:
-    - watch lecture 3
-      
+- Linear classifier [[notebook](https://colab.research.google.com/drive/1rilZVq9-P75B0YGmmC8CpLcx_H5vUd1j?usp=sharing)]
+  <!--- [[solutions](https://colab.research.google.com/drive/1DWDgJU2MTr4keCStRtwBQJT3RpbyQO-u?usp=sharing)] --->
+- Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/1YOroseAK4q1xdXH3vj3KLPPZGKZhqSOl?usp=sharing)]
+  <!--- [[solutions](https://colab.research.google.com/drive/1P7M26zMPhbFN2PhEn3HWMhGv6o6HX90h?usp=sharing)] --->
+
+<!---       
 ### 2. *Monday, Oct 2*
 - Quiz review: norms
 - Cosine similarity vs. Euclidian distance
