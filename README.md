@@ -49,7 +49,7 @@
 --->
 ## Agenda
 
-### 1. *Wednesday, Sept 4*: Introduction
+### 1. *Wednesday, Sept 4*: Introduction, Vectors and Distances
 - Welcome quiz [[google form](https://forms.gle/wvdnQTxeEnzGg2Ff7)]
 - Vectors - Pyhton practice:
     - Color vectors [[notebook](https://colab.research.google.com/drive/1mtcmhcz-HCMkDqxJ-roliz-wuN_C32-p?usp=sharing)]
@@ -64,7 +64,7 @@
     - check out some of the tutorials (e.g., mentioned above);
     - practice: recreate the formulas you see (try not to look at the source first!) [[link](https://www.overleaf.com/read/wtqvpbyrgzcj)].
  
-### 2. *Friday, Sept 6* 
+### 2. *Friday, Sept 6*: More on Vectors 
 - Quiz review
 - Linear classifier [[notebook](https://colab.research.google.com/drive/1rilZVq9-P75B0YGmmC8CpLcx_H5vUd1j?usp=sharing)]
   <!--- [[solutions](https://colab.research.google.com/drive/1DWDgJU2MTr4keCStRtwBQJT3RpbyQO-u?usp=sharing)] --->
