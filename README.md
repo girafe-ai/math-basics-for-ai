@@ -66,9 +66,17 @@
 - Quiz review
 - Linear classifier [[notebook](https://colab.research.google.com/drive/1rilZVq9-P75B0YGmmC8CpLcx_H5vUd1j?usp=sharing)][[solutions](https://colab.research.google.com/drive/1DWDgJU2MTr4keCStRtwBQJT3RpbyQO-u?usp=sharing)]
 
-### 3. *Wednesday, Sept 11*: Vector spaces
+### 3. *Wednesday, Sept 11*: Vector Spaces
+- Review lecture 2
 - Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/1YOroseAK4q1xdXH3vj3KLPPZGKZhqSOl?usp=sharing)]
   <!--- [[solutions](https://colab.research.google.com/drive/1P7M26zMPhbFN2PhEn3HWMhGv6o6HX90h?usp=sharing)] --->
+- Quiz lectures 1 - 3 [[google form](https://forms.gle/Xr79ZJ8FiSF1Dgz27)]
+
+### 4. *Friday, Sept 13*: Systems of Linear Equations
+
+### 5. *Wednesday, Sept 18*: PCA
+
+### 6. *Friday, Sept 20*: SVD
 
 <!---       
 ### 2. *Monday, Oct 2*
