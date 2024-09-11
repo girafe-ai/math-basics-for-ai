@@ -72,7 +72,8 @@
 - Review lecture 2
 - Gram-Schmidt process [[notebook](https://colab.research.google.com/drive/1YOroseAK4q1xdXH3vj3KLPPZGKZhqSOl?usp=sharing)]
   <!--- [[solutions](https://colab.research.google.com/drive/1P7M26zMPhbFN2PhEn3HWMhGv6o6HX90h?usp=sharing)] --->
-- Quiz lectures 1 - 3 [[google form](https://forms.gle/Xr79ZJ8FiSF1Dgz27)]
+- Homework:
+    - Quiz lectures 1 - 3 [[google form](https://forms.gle/Xr79ZJ8FiSF1Dgz27)]
 
 ### 4. *Friday, Sept 13*: Systems of Linear Equations
 
