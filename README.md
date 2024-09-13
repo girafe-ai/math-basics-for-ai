@@ -75,6 +75,12 @@
     - Quiz lectures 1 - 3 [[google form](https://forms.gle/Xr79ZJ8FiSF1Dgz27)]
 
 ### 4. *Friday, Sept 13*: Systems of Linear Equations
+- Quiz review
+- Method of least squares
+    - Python practice [[notebook](https://colab.research.google.com/drive/1zuWIfi_IhmP0JMRmJoyV_DU9WmzpbVLS?usp=sharing)]
+- Homework
+    - watch lecture 4
+    - graded assignment 1 (deadline Wednesday, September 18, before the class)
 
 ### 5. *Wednesday, Sept 18*: PCA
 
