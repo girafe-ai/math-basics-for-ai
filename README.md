@@ -82,7 +82,7 @@
     - watch lecture 4
     - graded assignment 1 (deadline Wednesday, September 18, before the class)
 
-### 5. *Wednesday, Sept 18*: PCA
+### 5. *Wednesday, Sept 18*: Matrix decompositions
 
 ### 6. *Friday, Sept 20*: SVD
 
