@@ -82,11 +82,12 @@
     - watch lecture 4
     - graded assignment 1 (deadline Wednesday, September 18, before the class)
 
-### 5. *Wednesday, Sept 18*: Least Squares (part 2), Matrix decompositions
+### 5. *Wednesday, Sept 18*: Least Squares (part 2)
 - Method of least squares continued
-- Quiz: [[google form](https://forms.gle/tYN5ZmPgm3rPLKLz6)]
+- Homework:
+    - Quiz: [[google form](https://forms.gle/tYN5ZmPgm3rPLKLz6)]
 
-### 6. *Friday, Sept 20*: SVD
+### 6. *Friday, Sept 20*: Matrix decompositions
 
 <!---       
 ### 2. *Monday, Oct 2*
