@@ -36,7 +36,7 @@
 
 ## Graded assignments
 - TBD Graded assignment 1 [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/msai24-graded-assignment-01.pdf)] [[LaTex template](https://www.overleaf.com/read/bqqpcbxwzhwf#9e0252)][[submission form](https://forms.gle/qu9sKV9wJgY9QneN6)]
-    - *Deadline: Wednesday, September 18, 18:59 Moscow time*
+    - *Deadline: Friday, September 20, 18:59 Moscow time*
 <!---
 - **Final exam** [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/msai23-final-exam.pdf)][[LaTeX template](https://www.overleaf.com/read/shbbwyczsjvd#f2a711)][[submission form](https://forms.gle/W7DnYGLRySjjukJS7)]
     - *Deadline: Monday, November 27, 18:59 Moscow time*
@@ -82,7 +82,9 @@
     - watch lecture 4
     - graded assignment 1 (deadline Wednesday, September 18, before the class)
 
-### 5. *Wednesday, Sept 18*: Matrix decompositions
+### 5. *Wednesday, Sept 18*: Least Squares (part 2), Matrix decompositions
+- Method of least squares continued
+- Quiz: [[google form](https://forms.gle/tYN5ZmPgm3rPLKLz6)]
 
 ### 6. *Friday, Sept 20*: SVD
 
