@@ -88,6 +88,12 @@
     - Quiz: [[google form](https://forms.gle/tYN5ZmPgm3rPLKLz6)]
 
 ### 6. *Friday, Sept 20*: Matrix decompositions
+- Review quiz lectuures 1-4
+- LU, QR and Eigendecompositions
+- PCA
+    - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)]
+- Homework:
+    - graded assignment 2 (deadline Friday, September 27 before the class)
 
 <!---       
 ### 2. *Monday, Oct 2*
