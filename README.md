@@ -92,11 +92,15 @@
 ### 6. *Friday, Sept 20*: Matrix decompositions
 - Review quiz lectuures 1-4
 - LU, QR and Eigendecompositions
+- Homework:
+    - graded assignment 2 (deadline Sunday, September 29, 23:59 Moscow time)
+ 
+### 6. *Wednesday, Sept 25*: PCA
 - PCA
     - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)]
 - Homework:
-    - graded assignment 2 (deadline Friday, September 27 before the class)
-
+    - watch lecture 5
+ 
 <!---       
 ### 2. *Monday, Oct 2*
 - Quiz review: norms
