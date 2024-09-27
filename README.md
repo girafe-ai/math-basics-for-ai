@@ -106,6 +106,7 @@
 - SVD
     - Python practice [[notebook](https://colab.research.google.com/drive/1sHWWMMhdevgXLuQ4XpdhC48hdzGu7PqY?usp=sharing)]
 - Homework:
+    - graded assignment 3 (deadline Sunday, October 6, 23:59 Moscow time)
     - watch lecture 6  
  
 <!---       
