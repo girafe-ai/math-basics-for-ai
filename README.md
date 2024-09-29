@@ -110,7 +110,7 @@
     - graded assignment 3 (deadline Sunday, October 6, 23:59 Moscow time)
     - SVD Python practice [[notebook](https://colab.research.google.com/drive/1sHWWMMhdevgXLuQ4XpdhC48hdzGu7PqY?usp=sharing)]
     - watch lecture 6
-        - Quiz: [[google form](https://forms.gle/2gUFUu1RPQ8ZUFiK6)]
+        - Quiz: [[google form](https://forms.gle/Cz6jBQ7vQKfZxWy79)]
  
 <!---       
 ### 2. *Monday, Oct 2*
