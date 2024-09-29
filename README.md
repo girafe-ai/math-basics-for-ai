@@ -98,16 +98,17 @@
 ### 6. *Wednesday, Sept 25*: PCA
 - PCA
 - Homework:
-    - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)]
+    - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)][[solutions](https://colab.research.google.com/drive/14NCSyCsr7sR_YtctaurVDI650CNCiwS3?usp=sharing)]
     - watch lecture 5
  
 ### 6. *Friday, Sept 27*: SVD
 - Review PCA notebook
 - SVD
-    - Python practice [[notebook](https://colab.research.google.com/drive/1sHWWMMhdevgXLuQ4XpdhC48hdzGu7PqY?usp=sharing)]
 - Homework:
     - graded assignment 3 (deadline Sunday, October 6, 23:59 Moscow time)
-    - watch lecture 6  
+    - SVD Python practice [[notebook](https://colab.research.google.com/drive/1sHWWMMhdevgXLuQ4XpdhC48hdzGu7PqY?usp=sharing)]
+    - watch lecture 6
+        - Quiz: [[google form](https://forms.gle/2gUFUu1RPQ8ZUFiK6)]
  
 <!---       
 ### 2. *Monday, Oct 2*
