@@ -111,6 +111,10 @@
     - SVD Python practice [[notebook](https://colab.research.google.com/drive/1sHWWMMhdevgXLuQ4XpdhC48hdzGu7PqY?usp=sharing)]
     - watch lecture 6
         - Quiz: [[google form](https://forms.gle/Cz6jBQ7vQKfZxWy79)]
+     
+### 6. *Wednesday, Oct 2*: Optimizing a function
+- Univariate functions
+- Multivariate functions
  
 <!---       
 ### 2. *Monday, Oct 2*
