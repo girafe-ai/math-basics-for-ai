@@ -97,13 +97,13 @@
 - Homework:
     - graded assignment 2 (deadline Sunday, September 29, 23:59 Moscow time)
  
-### 6. *Wednesday, Sept 25*: PCA
+### 7. *Wednesday, Sept 25*: PCA
 - PCA
 - Homework:
     - Python practice [[notebook](https://colab.research.google.com/drive/1cf-8q5gYsZBDfnFMYG79RnBEXTrpT9-R?usp=sharing)][[solutions](https://colab.research.google.com/drive/14NCSyCsr7sR_YtctaurVDI650CNCiwS3?usp=sharing)]
     - watch lecture 5
  
-### 6. *Friday, Sept 27*: SVD
+### 8. *Friday, Sept 27*: SVD
 - Review PCA notebook
 - SVD
 - Homework:
@@ -112,9 +112,16 @@
     - watch lecture 6
         - Quiz: [[google form](https://forms.gle/Cz6jBQ7vQKfZxWy79)]
      
-### 6. *Wednesday, Oct 2*: Optimizing a function
+### 9. *Wednesday, Oct 2*: Optimizing a function 1
 - Univariate functions
+
+### 10. *Wednesday, Oct 9*: Optimizing a function 2
 - Multivariate functions
+
+### 11. *Friday, Oct 11*: Optimizing a function 3
+- Matrix calculus
+- Homework:
+    - graded assignment 4 (deadline Monday, October 21, 23:59 Moscow time)
  
 <!---       
 ### 2. *Monday, Oct 2*
