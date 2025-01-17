@@ -35,6 +35,8 @@
 - [Detexify](https://detexify.kirelabs.org/classify.html) - draw a symbol you are looking for, and this web will give you its latex representation.
 
 ## Graded assignments
+- FINAL EXAM [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/msai24-final-exam.pdf)][LaTeX template](https://www.overleaf.com/read/nmbndgbqmffr#8406bc)][[submission form](https://forms.gle/8L8yBwq7i1FegMxr7)]
+     - *Deadline: Friday, January 24, 18:59 Moscow time*
 - Graded assignmnet 4 [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/msai24-graded-assignment-04.pdf)][[LaTeX template](https://www.overleaf.com/read/cqdqnmprvnwj#da8b03)][[submission form](https://forms.gle/rNfM2TVJCyQFDC3u7)]
     - *Deadline: Monday, October 21, 23:59 Moscow time*
 - Graded assignmnet 3 [[pdf](https://github.com/girafe-ai/math-basics-for-ai/blob/master/graded%20assignments/msai24-graded-assignment-03.pdf)][[notebook (task 2)](https://colab.research.google.com/drive/1gKnwK-vVCHMmdlCrjj3kPVMbi_TIIaqA?usp=sharing)][[LaTeX template](https://www.overleaf.com/read/rzdffkvpnymv#4d7165)][[submission form](https://forms.gle/JNyoUzaCcm9A7zxi7)]
